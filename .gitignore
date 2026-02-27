@@ -4,7 +4,8 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+##appliction property##
+src/main/resources/application.propertiesgit 
 ### STS ###
 .apt_generated
 .classpath
